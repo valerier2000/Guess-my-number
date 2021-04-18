@@ -99,12 +99,12 @@ h1 {
 
 .btn {
   border: none;
-  border-radius: 15%;
+  border-radius: 20%;
   background-color: #e2ffff;
   color: #14141f;
   font-size: 2rem;
   font-family: inherit;
-  padding: 2rem 3rem;
+  padding: 1.5rem 3rem;
   cursor: pointer;
 }
 
